@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+我是刘传玺，一名居住在济南的 算法工程师。写代码 热爱折腾。
+欢迎 pick 👇
+
+📄 个人网站 ｜ 📄 我的简历 ｜ 📞 19839737630 ｜ 📮 junjie.he.925@gmail.com
