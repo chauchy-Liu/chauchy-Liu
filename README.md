@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/gender-%F0%9F%A4%B5 gentleman-critical">
     <!-- <img src="https://img.shields.io/static/v1?label=wechat&message=Alex5198023&color=7BB32E&logo=wechat"> -->
     <a href="https://chauchy-liu.github.io" target="_blank"><img src="https://img.shields.io/badge/website-chauchy--liu.github.io-orange"></a>
-    <!-- <img style="border-radius: 2px;" src="https://hits.dwyl.com/chauchy-Liu/chauchy-Liu/chauchy-Liu?style=flat" alt="visitors"> -->
+    <img style="border-radius: 2px;" src="https://hits.dwyl.com/chauchy-Liu/chauchy-Liu.svg?style=flat-square" alt="visitors">
 
 [comment]: <> ( if the badge is down, try this website https://vbr.wocr.tk/badge?page_id=chauchy-Liu&style=plastic&lcolor=590d22&logo=Github&hit=false but this page maybe have bug)
 [//]: # (    <img src="https://vbr.wocr.tk/badge?page_id=chauchy-Liu&style=plastic&lcolor=590d22&logo=Github&hit=false" alt="visitors">)
