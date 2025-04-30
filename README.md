@@ -134,3 +134,61 @@ Here are some ideas to get you started:
 欢迎 pick 👇
 
 📄 [个人网站](https://chauchy-liu.github.io/)  ｜ 📞 18560121924 ｜ 📮 liuchuanxi_211@163.com
+
+<!-- waka readme - https://github.com/athul/waka-readme -->
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+
+```txt
+From: 22 April 2025 - To: 29 April 2025
+
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
+<br/>
+
+---
+
+![佛系开发](imgs/buddhist-dev.png)
+
+---
+
+<br/>
+
+
+---
+
+<details>
+  <summary><b>Things used in this README</b></summary>
+  <br>
+  <ol>
+    <li>
+        <a href="https://github.com/DenverCoder1/readme-typing-svg">Typing SVG</a>
+    </li>
+    <li>
+        <a href="https://www.dute.org/weird-fonts">怪异英文生成器</a>
+    </li>
+    <li>
+      <a href="https://github.com/Nathan13888/VisitorBadgeReloaded">Visitor Badge Reloaded</a>
+    </li>
+    <li>
+      <a href="https://github.com/lowlighter/metrics">Lowlighter's Metrics</a>
+    </li>
+    <li>
+      <a href="https://github.com/athul/waka-readme">waka-readme</a>
+    </li>
+    <li>
+      <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>
+    </li>
+    <li>
+        <a href="https://github.com/ashutosh00710/github-readme-activity-graph">github-readme-activity-graph</a>
+    </li>
+    <li>
+        <a href="https://shields.io">Shields.io</a>
+    </li>
+    <li>
+        <a href="https://hits.dwyl.com/">HITS</a>
+    </li>
+  </ol>
+</details>
