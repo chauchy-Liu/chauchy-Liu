@@ -28,12 +28,12 @@ Here are some ideas to get you started:
 
 <p align="center">
     <img src="https://img.shields.io/badge/gender-%F0%9F%A4%B5 gentleman-critical">
-    <img src="https://img.shields.io/static/v1?label=wechat&message=Alex5198023&color=7BB32E&logo=wechat">
-    <a href="https://pudongping.github.io" target="_blank"><img src="https://img.shields.io/badge/website-pudongping.github.io-orange"></a>
-    <img style="border-radius: 2px;" src="https://hits.dwyl.com/pudongping/pudongping/pudongping.svg?style=flat" alt="visitors">
+    <!-- <img src="https://img.shields.io/static/v1?label=wechat&message=Alex5198023&color=7BB32E&logo=wechat"> -->
+    <a href="https://chauchy-Liu.github.io" target="_blank"><img src="https://img.shields.io/badge/website-chauchy-Liu.github.io-orange"></a>
+    <img style="border-radius: 2px;" src="https://hits.dwyl.com/chauchy-Liu/chauchy-Liu/chauchy-Liu?style=flat" alt="visitors">
 
-[comment]: <> ( if the badge is down, try this website https://vbr.wocr.tk/badge?page_id=pudongping.pudongping&style=plastic&lcolor=590d22&logo=Github&hit=false but this page maybe have bug)
-[//]: # (    <img src="https://vbr.wocr.tk/badge?page_id=pudongping.pudongping&style=plastic&lcolor=590d22&logo=Github&hit=false" alt="visitors">)
+[comment]: <> ( if the badge is down, try this website https://vbr.wocr.tk/badge?page_id=chauchy-Liu&style=plastic&lcolor=590d22&logo=Github&hit=false but this page maybe have bug)
+[//]: # (    <img src="https://vbr.wocr.tk/badge?page_id=chauchy-Liu&style=plastic&lcolor=590d22&logo=Github&hit=false" alt="visitors">)
 
 </p>
 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 𝑯𝒊, 𝑰'𝒎 ✨ [Chauchy](https://chauchy-Liu.github.io) ✨ 🥷🏻 , 𝒂 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒔𝒆𝒍𝒇-𝒕𝒂𝒖𝒈𝒉𝒕 𝑭𝒖𝒍𝒍 𝑺𝒕𝒂𝒄𝒌 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒂𝒏𝒅 𝒂 𝒇𝒖𝒏𝒏𝒚 𝒔𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝒆𝒏𝒈𝒊𝒏𝒆𝒆𝒓 𝒇𝒓𝒐𝒎 𝑪𝒉𝒊𝒏𝒂. <img src="./imgs/bear.gif" width="30"> 𝑰 𝒕𝒂𝒌𝒆 𝒈𝒓𝒆𝒂𝒕 𝒄𝒂𝒓𝒆 𝒊𝒏 𝒕𝒉𝒆 𝒂𝒓𝒄𝒉𝒊𝒕𝒆𝒄𝒕𝒖𝒓𝒆 𝒂𝒏𝒅 𝒄𝒐𝒅𝒆 𝒒𝒖𝒂𝒍𝒊𝒕𝒚 𝒐𝒇 𝒕𝒉𝒆 𝒕𝒉𝒊𝒏𝒈𝒔 𝑰 𝒃𝒖𝒊𝒍𝒅. 𝑰 𝒂𝒎 𝒂𝒍𝒔𝒐 𝒂𝒏 𝒐𝒑𝒆𝒏-𝒔𝒐𝒖𝒓𝒄𝒆 𝒆𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕 𝒂𝒏𝒅 𝒎𝒂𝒊𝒏𝒕𝒂𝒊𝒏𝒆𝒓. 
 
 <!-- code.gif -->
-<img align="right" alt="GIF" src="https://github.com/pudongping/pudongping/blob/main/imgs/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/chauchy-Liu/chauchy-Liu/blob/main/imgs/code.gif?raw=true" width="500" height="320" />
 
 🛠️ **My Tech Stack and Tools:**
 
