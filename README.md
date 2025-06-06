@@ -138,7 +138,7 @@ Here are some ideas to get you started:
 <!-- waka readme - https://github.com/athul/waka-readme -->
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-0-blue)
 
@@ -171,16 +171,17 @@ Here are some ideas to get you started:
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-本周没有记录到任何活动
+Python                   10 mins             ███████████████████████░░   92.82 % 
+Text                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
 
 🔥 编辑器: 
-本周没有记录到任何活动
+VS Code                  10 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-本周没有记录到任何活动
+wind-efficient-new       10 mins             █████████████████████████   100.00 % 
 
 💻 操作系统: 
-本周没有记录到任何活动
+Mac                      10 mins             █████████████████████████   100.00 % 
 ```
 
 **我最常使用 C++** 
@@ -195,7 +196,7 @@ Python                   1 repo              █████░░░░░░�
 
 
 
- Last Updated on 02/06/2025 01:10:26 UTC
+ Last Updated on 06/06/2025 01:07:39 UTC
 <!--END_SECTION:waka-->
 <br/>
 
