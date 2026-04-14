@@ -138,7 +138,7 @@ Here are some ideas to get you started:
 <!-- waka readme - https://github.com/athul/waka-readme -->
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-299%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-300%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -147,20 +147,20 @@ Here are some ideas to get you started:
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     82 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-🌆 白天                     210 commits         ███████████░░░░░░░░░░░░░░   43.48 % 
-🌃 傍晚                     191 commits         ██████████░░░░░░░░░░░░░░░   39.54 % 
+🌞 早晨                     82 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+🌆 白天                     212 commits         ███████████░░░░░░░░░░░░░░   43.71 % 
+🌃 傍晚                     191 commits         ██████████░░░░░░░░░░░░░░░   39.38 % 
 🌙 晚上                     0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **星期五 时的我最有干劲** 
 
 ```text
-星期一                      18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-星期二                      38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-星期三                      36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-星期四                      161 commits         ████████░░░░░░░░░░░░░░░░░   33.33 % 
-星期五                      217 commits         ███████████░░░░░░░░░░░░░░   44.93 % 
-星期六                      7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+星期一                      20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+星期二                      38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+星期三                      36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+星期四                      161 commits         ████████░░░░░░░░░░░░░░░░░   33.20 % 
+星期五                      217 commits         ███████████░░░░░░░░░░░░░░   44.74 % 
+星期六                      7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 星期日                      6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 ```
 
@@ -171,38 +171,40 @@ Here are some ideas to get you started:
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   4 hrs 34 mins       ████████████████░░░░░░░░░   63.96 % 
-JavaScript               1 hr 52 mins        ███████░░░░░░░░░░░░░░░░░░   26.31 % 
-JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-HTML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Python                   4 hrs 34 mins       ██████████████░░░░░░░░░░░   54.28 % 
+JavaScript               3 hrs 1 min         █████████░░░░░░░░░░░░░░░░   35.83 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+HTML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 🔥 编辑器: 
-VS Code                  7 hrs 9 mins        █████████████████████████   100.00 % 
+VS Code                  8 hrs 25 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-模拟                       4 hrs 41 mins       ████████████████░░░░░░░░░   65.49 % 
-exercise                 2 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   31.38 % 
-03-first-threejs-project 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+模拟                       4 hrs 46 mins       ██████████████░░░░░░░░░░░   56.62 % 
+exercise                 2 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   26.63 % 
+three-js-project         1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+03-first-threejs-project 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+UnityProject             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 💻 操作系统: 
-Mac                      7 hrs 9 mins        █████████████████████████   100.00 % 
+Mac                      8 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Python** 
 
 ```text
-Python                   2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-C#                       1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-CMake                    1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-HTML                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Python                   2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+C#                       1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+CMake                    1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+TypeScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 ```
 
 
 
 
- Last Updated on 13/04/2026 02:05:44 UTC
+ Last Updated on 14/04/2026 02:00:51 UTC
 <!--END_SECTION:waka-->
 <br/>
 
