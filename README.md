@@ -138,7 +138,7 @@ Here are some ideas to get you started:
 <!-- waka readme - https://github.com/athul/waka-readme -->
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-325%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-325%20hrs%2056%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -171,37 +171,37 @@ Here are some ideas to get you started:
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   13 hrs 5 mins       █████████████████████░░░░   82.24 % 
-Other                    1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-HTML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Python                   9 hrs 58 mins       █████████████████████░░░░   85.26 % 
+JSON                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+Other                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+HTML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 编辑器: 
-VS Code                  15 hrs 55 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 41 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-模拟                       15 hrs 34 mins      ████████████████████████░   97.86 % 
-three-js-project         20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+模拟                       11 hrs 21 mins      ████████████████████████░   97.09 % 
+three-js-project         20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 
 💻 操作系统: 
-Mac                      15 hrs 55 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
-**我最常使用 Python** 
+**我最常使用 JavaScript** 
 
 ```text
-Python                   2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-C#                       1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-CMake                    1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-TypeScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+JavaScript               2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Python                   2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+TypeScript               2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+C#                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+CMake                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
 
 
 
 
- Last Updated on 28/04/2026 02:17:15 UTC
+ Last Updated on 29/04/2026 02:26:37 UTC
 <!--END_SECTION:waka-->
 <br/>
 
