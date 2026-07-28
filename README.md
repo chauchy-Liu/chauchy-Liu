@@ -138,7 +138,9 @@ Here are some ideas to get you started:
 <!-- waka readme - https://github.com/athul/waka-readme -->
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-387%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-373%20hrs%2037%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20hrs%2057%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -185,6 +187,28 @@ VS Code                  42 mins             ███████████�
 Mac                      42 mins             █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 42 mins (100.0%)
+
+✍️ 636 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 7,128,538 Input Tokens, 45,164 Output Tokens
+
+💵 $37.00 Estimated AI Cost This Week
+
+🧠 5 AI Sessions, 10 AI Prompts
+
+GPT                      636 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 194 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **我最常使用 Python** 
 
 ```text
@@ -198,7 +222,7 @@ CMake                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 02:14:49 UTC
+ Last Updated on 28/07/2026 01:55:27 UTC
 <!--END_SECTION:waka-->
 <br/>
 
