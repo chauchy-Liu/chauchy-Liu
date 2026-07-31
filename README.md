@@ -173,40 +173,38 @@ Here are some ideas to get you started:
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   1 hr 36 mins        █████████████████░░░░░░░░   69.50 % 
-Markdown                 34 mins             ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
-JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Python                   46 mins             █████████████████████████   98.83 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🔥 编辑器: 
-VS Code                  2 hrs 19 mins       █████████████████████████   100.00 % 
+VS Code                  47 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-模拟                       2 hrs 19 mins       █████████████████████████   100.00 % 
+模拟                       47 mins             █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Mac                      2 hrs 19 mins       █████████████████████████   100.00 % 
+Mac                      47 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 19 mins (100.0%)
+⏱ AI Coding Time: 47 mins (100.0%)
 
-✍️ 2,340 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 877 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 24,860,278 Input Tokens, 107,634 Output Tokens
+🔤 9,859,141 Input Tokens, 46,777 Output Tokens
 
-💵 $124.70 Estimated AI Cost This Week
+💵 $50.70 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 22 AI Prompts
+🧠 3 AI Sessions, 5 AI Prompts
 
-GPT                      2,351 lines         █████████████████████████   100.00 % 
+GPT                      877 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 279 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📄 Detailed Prompter — average 713 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -223,7 +221,7 @@ CMake                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2026 01:50:13 UTC
+ Last Updated on 31/07/2026 02:08:11 UTC
 <!--END_SECTION:waka-->
 <br/>
 
