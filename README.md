@@ -173,34 +173,33 @@ Here are some ideas to get you started:
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   27 mins             ███████████░░░░░░░░░░░░░░   42.29 % 
-JavaScript               21 mins             ████████░░░░░░░░░░░░░░░░░   32.68 % 
-Markdown                 16 mins             ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
+Python                   27 mins             ████████████░░░░░░░░░░░░░   46.51 % 
+Markdown                 16 mins             ███████░░░░░░░░░░░░░░░░░░   27.54 % 
+JavaScript               15 mins             ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
 
 🔥 编辑器: 
-VS Code                  1 hr 6 mins         █████████████████████████   100.00 % 
+VS Code                  1 hr                █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-数据                       40 mins             ███████████████░░░░░░░░░░   60.55 % 
-模拟                       25 mins             ██████████░░░░░░░░░░░░░░░   38.53 % 
-nature communication     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+数据                       40 mins             █████████████████░░░░░░░░   66.60 % 
+模拟                       20 mins             ████████░░░░░░░░░░░░░░░░░   33.40 % 
 
 💻 操作系统: 
-Mac                      1 hr 6 mins         █████████████████████████   100.00 % 
+Mac                      1 hr                █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 6 mins (100.0%)
+⏱ AI Coding Time: 1 hr (100.0%)
 
-✍️ 1,423 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,229 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,405,864 Input Tokens, 214,405 Output Tokens
+🔤 1,790,861 Input Tokens, 198,653 Output Tokens
 
 💵 $16.70 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 13 AI Prompts
+🧠 4 AI Sessions, 13 AI Prompts
 
 GPT                      1,226 lines         █████████████████████████   100.00 % 
 
@@ -224,7 +223,7 @@ CMake                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2026 01:20:48 UTC
+ Last Updated on 14/08/2026 01:20:29 UTC
 <!--END_SECTION:waka-->
 <br/>
 
