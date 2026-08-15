@@ -173,41 +173,22 @@ Here are some ideas to get you started:
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   27 mins             ████████████░░░░░░░░░░░░░   46.51 % 
-Markdown                 16 mins             ███████░░░░░░░░░░░░░░░░░░   27.54 % 
-JavaScript               15 mins             ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
+本周没有记录到任何活动
 
 🔥 编辑器: 
-VS Code                  1 hr                █████████████████████████   100.00 % 
+本周没有记录到任何活动
 
 🐱‍💻 项目: 
-数据                       40 mins             █████████████████░░░░░░░░   66.60 % 
-模拟                       20 mins             ████████░░░░░░░░░░░░░░░░░   33.40 % 
+本周没有记录到任何活动
 
 💻 操作系统: 
-Mac                      1 hr                █████████████████████████   100.00 % 
+本周没有记录到任何活动
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr (100.0%)
-
-✍️ 1,229 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 1,790,861 Input Tokens, 198,653 Output Tokens
-
-💵 $16.70 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 13 AI Prompts
-
-GPT                      1,226 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 326 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **我最常使用 Python** 
@@ -223,7 +204,7 @@ CMake                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2026 01:20:29 UTC
+ Last Updated on 15/08/2026 00:52:17 UTC
 <!--END_SECTION:waka-->
 <br/>
 
