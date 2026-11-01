@@ -138,58 +138,13 @@ Here are some ideas to get you started:
 <!-- waka readme - https://github.com/athul/waka-readme -->
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-374%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-375%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-31%20hrs%2048%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-39.03%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
-
-**我是早鸟 🐤** 
-
-```text
-🌞 早晨                     101 commits         █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
-🌆 白天                     216 commits         ██████████░░░░░░░░░░░░░░░   40.07 % 
-🌃 傍晚                     222 commits         ██████████░░░░░░░░░░░░░░░   41.19 % 
-🌙 晚上                     0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **星期五 时的我最有干劲** 
-
-```text
-星期一                      26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-星期二                      64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-星期三                      46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-星期四                      165 commits         ████████░░░░░░░░░░░░░░░░░   30.61 % 
-星期五                      218 commits         ██████████░░░░░░░░░░░░░░░   40.45 % 
-星期六                      11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-星期日                      9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-```
-
-
-📊 **本周消耗时间** 
-
-```text
-🕑︎ 时区: Asia/Shanghai
-
-💬 编程语言: 
-本周没有记录到任何活动
-
-🔥 编辑器: 
-本周没有记录到任何活动
-
-🐱‍💻 项目: 
-本周没有记录到任何活动
-
-💻 操作系统: 
-本周没有记录到任何活动
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-29.65%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
 **我最常使用 Python** 
 
@@ -204,7 +159,7 @@ CMake                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2026 03:38:23 UTC
+ Last Updated on 01/11/2026 03:44:15 UTC
 <!--END_SECTION:waka-->
 <br/>
 
